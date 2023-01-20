@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+body{
+    background: #1E1E1E;
+    text-align: center;
+    }
+
+header{
+    text-align: left;
+    margin: 40px;
+}
+
+h1{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #FFFFFF;
+    margin-bottom: 45px;
+}
+
+label{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: -270px;
+}
+
+input{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    width: 524px;
+    height: 30px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 13px;
+}
+
+#button{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    background-color: #0C70F2;
+    border-radius: 6px;
+    width: 555px;
+    height: 48px;
+}
+
+#button:hover {
+    cursor: pointer;
+    box-shadow: whitesmoke 2px 2px;
+}
+
+p{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #E73550;
+    position: relative;
+    left: 210px;
+    top: -30px;
+}
+
+#errorButton {
+    position: relative;
+    left: -170px;
+    top: -20px;
+}
